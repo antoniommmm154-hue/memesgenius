@@ -1,5 +1,7 @@
 {
-  "name": "Copy of MemeGenius AI",
+  "name": "MemeGenius AI",
   "description": "An advanced AI-powered meme generator that uses Gemini to analyze images for funny captions and perform intelligent image edits based on text prompts.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "camera"
+  ]
 }
